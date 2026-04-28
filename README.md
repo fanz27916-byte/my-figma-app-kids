@@ -2,9 +2,42 @@
 
 A Vue 3 e-commerce website for kids toys and games, generated from a Figma design.
 
-## Design Source
+![Project Preview](https://img.shields.io/badge/Status-Complete-success)
+![Vue](https://img.shields.io/badge/Vue-3.4-green)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)
+![Vite](https://img.shields.io/badge/Vite-5.0-purple)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-orange)
+
+## 🎨 Design Source
 
 This project was generated from the Figma design: [Webpage Template - Kids Toys & Games Store Website](https://www.figma.com/design/DS0PS1MP6l9cYFCqyaryTp/Webpage-Template---Kids-Toys---Games-Store-Website--Community-?node-id=3-69)
+
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/fanz27916-byte/my-figma-app-kids.git
+cd my-figma-app-kids
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## ✨ Features
+
+- 🎨 **Modern UI Design** - Clean and colorful interface designed for kids and parents
+- 📱 **Fully Responsive** - Works on desktop, tablet, and mobile devices
+- 🛒 **E-commerce Features** - Product cards, categories, shopping cart functionality
+- ⚡ **Fast Performance** - Built with Vue 3 and Vite for optimal performance
+- 🎯 **Accessibility** - Semantic HTML and proper ARIA labels
+- 🌈 **Colorful Design** - Bright and engaging color scheme
+- 🎮 **Interactive Elements** - Hover effects and smooth transitions
 
 ## Features
 
